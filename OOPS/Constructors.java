@@ -21,8 +21,6 @@ package OOPS;
 public class Constructors {
     public static void main(String[] args) {
         Car c = new Car("sonata " , 3.45,4);
-    c.print();
-
+        c.print();
     }
-    
 }
